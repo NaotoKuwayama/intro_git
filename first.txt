@@ -1,4 +1,5 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
 ・git add
-・gti commit
+・git commit
+・git rm
